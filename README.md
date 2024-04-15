@@ -30,10 +30,10 @@ Here's a sample usage of the calculator program:
 Welcome to Python Calculator!
 Select operation:
 
-Add
-Subtract
-Multiply
-Divide
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
 Enter choice (1/2/3/4): 1
 Enter first number: 1000
 Enter second number: 100
